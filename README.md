@@ -1,4 +1,12 @@
+
 ## Hi there 👋
+
+### 🐍 Watch the Snake Eat My Contributions!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tejaschavan724/tejaschavan724/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
 <!--
 **tejaschavan724/tejaschavan724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
