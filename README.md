@@ -3,12 +3,6 @@
 Engineering student with interests in embedded systems, machine learning, and robotics. Focused on building real-world solutions by integrating hardware with intelligent software.
 
 ---
-
-## Projects
-
-- **[Obstacle Avoiding Robot](https://github.com/tejaschavan724/obstacle-avoiding-robot)**  
-  Autonomous robot that navigates using ultrasonic and IR sensors, built with Arduino and L298N motor driver.
-
 ---
 
 ## Skills
