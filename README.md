@@ -9,15 +9,6 @@ Engineering student with interests in embedded systems, machine learning, and ro
 - **[Obstacle Avoiding Robot](https://github.com/tejaschavan724/obstacle-avoiding-robot)**  
   Autonomous robot that navigates using ultrasonic and IR sensors, built with Arduino and L298N motor driver.
 
-- **[FortiSafe](https://github.com/tejaschavan724/FortiSafe)**  
-  A secure resource management platform built using GoLang, Docker, and PostgreSQL.
-
-- **[FFCS Scheduler](https://github.com/tejaschavan724/FFCS-Scheduler)**  
-  Android application that helps VIT students plan their timetables; used by over 1000 users.
-
-- **IoT-Based Water Monitoring System**  
-  Arduino + NodeMCU-based smart water usage tracking system with cloud integration.
-
 ---
 
 ## Skills
