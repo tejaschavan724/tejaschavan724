@@ -20,9 +20,3 @@ Arduino • Verilog HDL • Git • TensorFlow • Keil uVision • Vivado
 </p>
 
 ---
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tejaschavan724/tejaschavan724/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
