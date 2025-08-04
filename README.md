@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tejas Chavan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Electronics+%7C+ML+%7C+DSA+%7C+Robotics+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=60&lines= Electronics+%7C+ML+%7C+DSA+%7C+Robotics+enthusiast" alt="Typing SVG" />
 </p>
 
 ---
